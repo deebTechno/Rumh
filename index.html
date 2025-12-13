@@ -178,7 +178,6 @@
         
             <a href="https://wa.me/+966550415150" target="_blank"><i class="fab fa-whatsapp"></i></a>
             
-            
           <!--  <a href="https://instagram.com/almalmas.alraqi" target="_blank"><i class="fab fa-instagram"></i></a>
             <a href="https://www.tiktok.com/@.almalmas.alraqi" target="_blank"><i class="fab fa-tiktok"></i></a>
             <a href="https://www.facebook.com/share/1F243ocN41/" target="_blank"><i class="fab fa-facebook"></i></a>
