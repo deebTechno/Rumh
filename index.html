@@ -192,6 +192,7 @@
         
            <a href="image/Rumh Company Profile (5) (1) (1) (1) (1).pdf" class="link-btn" target="_blank">الكاتلوج</a>
             <a href="https://wa.me/+966550415150" class="link-btn" target="_blank">تواصل عبر WhatsApp(KSA)</a>
+            <a href="tel:0550415150">اتصل بنا</a>
          <!--
             <a href="https://wa.me/+96896025353" class="link-btn" target="_blank">تواصل عبر WhatsApp(Oman)</a>
             <a href="https://wa.me/+971543600523" class="link-btn" target="_blank">تواصل عبر WhatsApp(UAE)</a>
