@@ -14,7 +14,7 @@
             font-family: 'Cairo', sans-serif;
             margin: 0;
             padding: 0;
-            background: linear-gradient(#2596be, #b71c1c, #e53935, #f57c00, #43a047, #1e88e5);
+            background: linear-gradient(#387991, #b71c1c, #3b8caa, #3292b5, #2a94bb, #2197c3);
             background-size: 400% 400%;
             animation: gradientMove 20s ease infinite;
             text-align: center;
