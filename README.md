@@ -192,11 +192,13 @@
         <!-- الروابط -->
         <div class="links">
         
-           <a href="image/Rumh Company Profile (5) (1) (1) (1) (1).pdf" class="link-btn" target="_blank">نبذه عن الشركة</a>
+                <a href="image/Rumh Company Profile (5) (1) (1) (1) (1).pdf" class="link-btn" target="_blank">نبذه عن الشركة</a>
             <a href="https://wa.me/+966550415150" class="link-btn" target="_blank">تواصل عبر WhatsApp(KSA)</a>
-            <a href="mailto:Rumh005@gmail.com?subject=تواصل&body=مرحباً، أود التواصل معك">
+            <a href="mailto:Rumh005@gmail.com?subject=%D8%AA%D9%88%D8%A7%D8%B5%D9%84&body=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D8%8C%20%D8%A3%D9%88%D8%AF%20%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84%20%D9%85%D8%B9%D9%83"
+   class="link-btn">
   تواصل عبر البريد الإلكتروني
 </a>
+
 
             <a href="tel:0550415150" class="link-btn" target="_blank">اتصل بنا  </a>
          <!--
